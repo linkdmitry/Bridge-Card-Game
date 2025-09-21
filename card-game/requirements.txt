@@ -1,0 +1,10 @@
+pygame>=2.0.1
+# Main dependency for game graphics and event handling
+
+# Optional dependencies for enhanced features
+# numpy>=1.21.0  # Currently not used, but available for future mathematical operations
+
+# Development dependencies (uncomment for development)
+# pytest>=6.0.0  # For running unit tests
+# black>=21.0.0   # For code formatting
+# flake8>=3.8.0   # For code linting
